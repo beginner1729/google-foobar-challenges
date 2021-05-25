@@ -6,6 +6,7 @@ This is a record of my journey through the google foobar. As I progress I will p
 ## Rules
 
 The rules of the challenge are pretty simple.
+
 - One can solve only one problem at a time.
 - There is a time restraint in which he/she have to solve the problem. For me it was 7 days for level one to three and 14 days for level 4
 - A solution is only accepted for review only if their test case passes. To pass a test case one have to solve them with correct output, and under some time constraint.
@@ -14,7 +15,7 @@ These challenges are tough, good mathematical concepts are hidden in these chall
   
 ## Rewards
 
-Google uses this foobar challenge for their recruiting. But its not a guarantee that they will reach out. They took my details after I completed level 3.
+Google uses this foobar challenge for their recruiting. But its not a guarantee that they will reach out. They took my details after I completed level 3. And provided me with 2 referral codes to pass on to other fellow coders.
 
 ## Note
-I currently have 2 links for referral if you want to take part in the google foo bar.
+I currently have 2 links for referral, if you want to take part in the google foo bar mail me.
