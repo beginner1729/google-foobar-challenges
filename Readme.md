@@ -18,4 +18,4 @@ These challenges are tough, good mathematical concepts are hidden in these chall
 Google uses this foobar challenge for their recruiting. But its not a guarantee that they will reach out. They took my details after I completed level 3. And provided me with 2 referral codes to pass on to other fellow coders.
 
 ## Note
-I currently have 2 links for referral, if you want to take part in the google foo bar mail me.
+I currently have 2 links for referral, if you want to take part in the google foo bar mail me or raise an issue, I will assign a task like some imporvement in current code or any other parallel implementation. In case I like your work I will share the link with you.
