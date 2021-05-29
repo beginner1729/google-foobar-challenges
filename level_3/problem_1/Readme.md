@@ -164,9 +164,9 @@ which is equal to `(I - Q)^-1`, we are guaranteed that `S` is converging as per 
 
 Notice : `Q^0` means we don't even take one step with in the non-absorbing portion of the graph directly move from non-absorbing states to absorbing states.
 
-`S = I + Q^2 + Q^3....`
+`S = I + Q^1 + Q^2 + Q^3....`
 
-`S*Q = Q + Q^2 + Q^3....`
+`S*Q = Q + Q^2 + Q^3 + Q^4....`
 
 `S(I-Q) = I`
 
